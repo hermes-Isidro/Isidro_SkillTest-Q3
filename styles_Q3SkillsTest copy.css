@@ -1,0 +1,73 @@
+
+button{
+	font-size: 15px;
+	font-family: 'm';
+	background-color: #dc4d00;
+	color: #ffe683;
+	border-radius: 1px;
+
+}
+
+
+
+}
+
+button:hover{
+	font-size: 16px;
+	background-color: #ff742f;
+	border-radius: 1px;
+
+	}
+
+input[type="fullname"]{
+	border-radius: 1px;
+	font-size: 12px;
+	width: 100%;
+	text-align: left;
+}
+
+input[type="email"]{
+	border-radius: 1px;
+	font-size: 12px;
+	width: 100%;
+	text-align: left;
+}
+
+input{
+
+}
+
+label{
+	font-size: 18px;
+	font-family: 'm';
+}
+
+input[type="checkbox"]{
+	font-size: 10px;
+	font-family: 'm';
+	accent-color: #ff7b1c;
+}
+
+#rem{
+	font-size: 15px;
+	font-family: 'm';
+
+}
+
+#form-container{
+	background-color: #ff9e549a;
+	padding: 30px;
+	border-radius: 1px;
+	width: 500px;
+	margin: auto;
+	box-shadow: 0 4px 10px rgba(210, 78, 34, 0.393);
+	border: 5x rgb(255, 211, 89);
+}
+
+.box3{
+	width: 700px;
+	height: 500px;
+	margin: auto;
+	background-image: url('');
+
+}
